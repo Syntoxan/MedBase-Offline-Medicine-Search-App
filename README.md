@@ -34,8 +34,7 @@ Useful for pharmacy staff, medical and pharmacy students, and anyone who wants q
 
 | Home | Search | Details |
 |------|--------|---------|
-| ![Home](screenshots/1.png) | ![Search](screenshots/2.png) | ![Details](screenshots/3.png) |
-
+| ![MedBase home screen](screenshots/1.jpg) | ![MedBase medicine search](screenshots/2.jpg) | ![MedBase medicine details](screenshots/3.jpg) |
 ## 📥 How to install
 
 1. Tap **Download MedBase APK** above
